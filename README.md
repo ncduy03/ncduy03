@@ -7,6 +7,9 @@ My name is Nguyen Cong Duy.<br>
 
 
 <a href="https://github.com/ncduy03/chess_players_data">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncduy03&repo=chess_players_data&theme=onedark" />
 </a>    
+
+<a href="https://github.com/ncduy03/vietnamese_graduation_exam">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncduy03&repo=vietnamese_graduation_exam&theme=dark" />
+</a>
