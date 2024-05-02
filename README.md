@@ -1,5 +1,5 @@
 ### WELCOME👋👋👋
-Hi, I'm Duy. I'm a student majoring in Information Technology at Hanoi University of Science and Technology. Currently, my focus lies predominantly in Data Analysis and Artificial Intelligence, particularly in the field of Natural Language Processing.<br>
+Hi, I'm Duy. I'm a student majoring in Information Technology at Hanoi University of Science and Technology. Currently, my focus lies predominantly in Data Analysis and Artificial Intelligence.<br>
 
 # MY PROJECTS  
 
