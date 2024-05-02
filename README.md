@@ -16,6 +16,9 @@ Hi, I'm Duy. I'm a student majoring in Information Technology at Hanoi Universit
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncduy03&repo=chess_players_data&theme=midnight-purple" />
 </a>
 
+<a href="https://github.com/ncduy03/pokemon_crawl_data">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncduy03&repo=pokemon_crawl_data&theme=midnight-purple" />
+</a>
 
 ## Natural language processing
 
