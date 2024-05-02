@@ -29,7 +29,7 @@ Hi, I'm Duy. I'm a student majoring in Information Technology at Hanoi Universit
 </a>
 
 <a href="https://github.com/ncduy03/blockchain_proof_of_stake">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncduy03&repo=blockchain_proof_of_stakey&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncduy03&repo=blockchain_proof_of_stake&theme=midnight-purple" />
 </a>
 
 ## Database
