@@ -10,9 +10,9 @@ My name is Nguyen Cong Duy.<br>
 </a>
 
 <a href="https://github.com/ncduy03/chess_players_data">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncduy03&repo=chess_players_data&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncduy03&repo=chess_players_data&theme=transparent" />
 </a>    
 
 <a href="https://github.com/ncduy03/bitcoin_price_track">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncduy03&repo=bitcoin_price_track&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncduy03&repo=bitcoin_price_track&theme=great-gatsby" />
 </a>
