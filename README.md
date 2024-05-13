@@ -20,9 +20,6 @@ Hi, I'm Duy. I'm a student majoring in Information Technology at Hanoi Universit
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncduy03&repo=pokemon_crawl_data&theme=midnight-purple" />
 </a>
 
-## Natural language processing
-
-
 ## Object-oriendted-programming
 <a href="https://github.com/ncduy03/oop_history_library">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncduy03&repo=oop_history_library&theme=midnight-purple" />
