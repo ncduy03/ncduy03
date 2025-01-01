@@ -3,7 +3,7 @@ Hi, I'm Duy. I'm a student majoring in Information Technology at Hanoi Universit
 
 # MY PROJECTS  
 
-## Data analyst
+## Data analysis
 <a href="https://github.com/ncduy03/vietnamese_graduation_exam">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncduy03&repo=vietnamese_graduation_exam&theme=great-gatsby" />
 </a>
