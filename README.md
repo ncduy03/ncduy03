@@ -38,6 +38,7 @@ Hi, I'm Duy. I'm a student majoring in Information Technology at Hanoi Universit
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncduy03&repo=children_clothes_shop_DBMS&theme=vision-friendly-dark" />
 </a>
 
+<!--
 ## Operating system
 <a href="https://github.com/ncduy03/os_page_replacement">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncduy03&repo=os_page_replacement&theme=great-gatsby" />
@@ -47,5 +48,6 @@ Hi, I'm Duy. I'm a student majoring in Information Technology at Hanoi Universit
 <a href="https://github.com/ncduy03/starbucks_homepage">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncduy03&repo=starbucks_homepage&theme=great-gatsby" />
 </a>
+-->
 
 
