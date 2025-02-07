@@ -26,6 +26,14 @@ Hi, I'm Duy. I'm a student majoring in Information Technology at Hanoi Universit
 </a>
 -->
 
+## Web application
+<a href="https://github.com/ncduy03/media_store">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncduy03&repo=media_store&theme=midnight-purple" />
+</a>
+
+<a href="https://github.com/ncduy03/children_clothes_shop_dbms">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncduy03&repo=children_clothes_shop_DBMS&theme=midnight-purple" />
+</a>
 
 
 ## Object-oriented-programming
@@ -37,10 +45,6 @@ Hi, I'm Duy. I'm a student majoring in Information Technology at Hanoi Universit
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncduy03&repo=blockchain_proof_of_stake&theme=midnight-purple" />
 </a>
 
-## Database
-<a href="https://github.com/ncduy03/children_clothes_shop_dbms">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncduy03&repo=children_clothes_shop_DBMS&theme=vision-friendly-dark" />
-</a>
 
 <!--
 ## Operating system
