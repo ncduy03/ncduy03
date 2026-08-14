@@ -1,5 +1,5 @@
 ### WELCOME👋👋👋
-Hi, I'm Duy. I'm a student majoring in Information Technology at Hanoi University of Science and Technology. Currently, my focus lies predominantly in Data Analysis and Artificial Intelligence.<br>
+Hi, I'm Duy, an Information Technology student at Hanoi University of Science and Technology. Leveraging my solid IT background, I am currently working as an IT Business Analyst at a software outsourcing company.<br>
 
 # MY PROJECTS  
 
